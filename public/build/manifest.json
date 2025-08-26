@@ -1,0 +1,19 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DoWekkaz.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-75-jfH1H.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/xlab.js": {
+    "file": "assets/xlab-CyAlD8pj.js",
+    "name": "xlab",
+    "src": "resources/js/xlab.js",
+    "isEntry": true
+  }
+}
