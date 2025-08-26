@@ -1,5 +1,5 @@
 .env
-vendor
-node_modules
+/vendor
+/node_modules
 docker-compose.yml
-docker
+/docker
